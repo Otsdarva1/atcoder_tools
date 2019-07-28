@@ -1,0 +1,2 @@
+SESSION = ''
+CSRF_TOKEN = ''
